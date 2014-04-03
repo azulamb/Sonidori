@@ -1,0 +1,2125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="sonidori_icon.svg"
+   inkscape:export-filename="./sonidori_icon.png"
+   inkscape:export-xdpi="37.6875"
+   inkscape:export-ydpi="37.6875">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5649">
+      <stop
+         id="stop5651"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.81725353"
+         id="stop5653" />
+      <stop
+         id="stop5655"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5641">
+      <stop
+         id="stop5643"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.72876996"
+         id="stop5645" />
+      <stop
+         id="stop5647"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5633">
+      <stop
+         id="stop5635"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.74523544"
+         id="stop5637" />
+      <stop
+         id="stop5639"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5625">
+      <stop
+         id="stop5627"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.71757978"
+         id="stop5629" />
+      <stop
+         id="stop5631"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5593">
+      <stop
+         id="stop5595"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.69781309"
+         id="stop5597" />
+      <stop
+         id="stop5599"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5601">
+      <stop
+         id="stop5603"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.79696685"
+         id="stop5605" />
+      <stop
+         id="stop5607"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5609">
+      <stop
+         id="stop5611"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.65846753"
+         id="stop5613" />
+      <stop
+         id="stop5615"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5617">
+      <stop
+         id="stop5619"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.73990285"
+         id="stop5621" />
+      <stop
+         id="stop5623"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5585">
+      <stop
+         id="stop5587"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.76316524"
+         id="stop5589" />
+      <stop
+         id="stop5591"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5529">
+      <stop
+         id="stop5531"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.69958204"
+         id="stop5533" />
+      <stop
+         id="stop5535"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5521">
+      <stop
+         id="stop5523"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.76881266"
+         id="stop5525" />
+      <stop
+         id="stop5527"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5481">
+      <stop
+         id="stop5483"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.75124878"
+         id="stop5485" />
+      <stop
+         id="stop5487"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5497">
+      <stop
+         id="stop5499"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.71489555"
+         id="stop5501" />
+      <stop
+         id="stop5503"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5489">
+      <stop
+         id="stop5491"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.78927708"
+         id="stop5493" />
+      <stop
+         id="stop5495"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5399">
+      <stop
+         style="stop-color:#00ffff;stop-opacity:0;"
+         offset="0"
+         id="stop5401" />
+      <stop
+         id="stop5471"
+         offset="0.5"
+         style="stop-color:#00c1cb;stop-opacity:0;" />
+      <stop
+         style="stop-color:#1ae8ff;stop-opacity:1;"
+         offset="1"
+         id="stop5403" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5513">
+      <stop
+         id="stop5515"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.68113446"
+         id="stop5517" />
+      <stop
+         id="stop5519"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5505">
+      <stop
+         id="stop5507"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.56623191"
+         id="stop5509" />
+      <stop
+         id="stop5511"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5657">
+      <stop
+         id="stop5659"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.55457932"
+         id="stop5661" />
+      <stop
+         id="stop5663"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5665">
+      <stop
+         id="stop5667"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.63067555"
+         id="stop5669" />
+      <stop
+         id="stop5671"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4933"
+       id="radialGradient4939"
+       cx="106.75757"
+       cy="867.45178"
+       fx="106.75757"
+       fy="867.45178"
+       r="6.472136"
+       gradientTransform="matrix(1.3181773,-0.03112755,0.01459024,0.61786174,-46.624167,336.11227)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4933">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4935" />
+      <stop
+         id="stop4941"
+         offset="0.5"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop4937" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5577">
+      <stop
+         id="stop5579"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.6758703"
+         id="stop5581" />
+      <stop
+         id="stop5583"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4861">
+      <stop
+         style="stop-color:#005d86;stop-opacity:1;"
+         offset="0"
+         id="stop4863" />
+      <stop
+         style="stop-color:#00bed4;stop-opacity:1;"
+         offset="1"
+         id="stop4865" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5561">
+      <stop
+         id="stop5563"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.7534343"
+         id="stop5565" />
+      <stop
+         id="stop5567"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5553">
+      <stop
+         id="stop5555"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.75399369"
+         id="stop5557" />
+      <stop
+         id="stop5559"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5545">
+      <stop
+         id="stop5547"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.65621269"
+         id="stop5549" />
+      <stop
+         id="stop5551"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5537">
+      <stop
+         id="stop5539"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.74837452"
+         id="stop5541" />
+      <stop
+         id="stop5543"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4897">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4899" />
+      <stop
+         id="stop4905"
+         offset="0.34838778"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4901" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5569">
+      <stop
+         id="stop5571"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#00c1cb;stop-opacity:0;"
+         offset="0.69993472"
+         id="stop5573" />
+      <stop
+         id="stop5575"
+         offset="1"
+         style="stop-color:#1ae8ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4925">
+      <stop
+         id="stop4927"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.42735499"
+         id="stop4929" />
+      <stop
+         id="stop4931"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4915">
+      <stop
+         style="stop-color:#fff2d8;stop-opacity:1;"
+         offset="0"
+         id="stop4917" />
+      <stop
+         id="stop4923"
+         offset="0.59016401"
+         style="stop-color:#fce2b0;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f6a300;stop-opacity:1;"
+         offset="1"
+         id="stop4919" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4973">
+      <stop
+         style="stop-color:#0097ff;stop-opacity:1;"
+         offset="0"
+         id="stop4975" />
+      <stop
+         style="stop-color:#00eeee;stop-opacity:1;"
+         offset="1"
+         id="stop4977" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5009">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5011" />
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="1"
+         id="stop5013" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5649"
+       id="radialGradient3910"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1229365,-0.19111381,0.09010716,1.0009313,-397.66054,87.754867)"
+       cx="210.89459"
+       cy="837.74652"
+       fx="210.89459"
+       fy="837.74652"
+       r="4.6804004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5641"
+       id="radialGradient3913"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.2758403,-0.81596496,0.38379061,1.0704456,-669.15369,160.32187)"
+       cx="207.35907"
+       cy="827.79956"
+       fx="207.35907"
+       fy="827.79956"
+       r="4.6804004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5633"
+       id="radialGradient3916"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.2314915,-0.78804579,0.43215815,1.2237326,-691.21452,22.819993)"
+       cx="202.23254"
+       cy="820.02136"
+       fx="202.23254"
+       fy="820.02136"
+       r="4.6804004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5625"
+       id="radialGradient3919"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3491066,-0.77396149,0.49668643,1.5075289,-763.73482,-215.69252)"
+       cx="196.04535"
+       cy="815.02411"
+       fx="196.04535"
+       fy="815.02411"
+       r="4.6804004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5593"
+       id="radialGradient3922"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3726045,-0.13138116,0.08436951,1.5236234,-431.6528,-362.40837)"
+       cx="199.05055"
+       cy="837.69904"
+       fx="199.05055"
+       fy="837.69904"
+       r="4.6804004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5601"
+       id="radialGradient3925"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3853055,-0.19191683,0.10818101,1.3445659,-451.49697,-199.58689)"
+       cx="195.33826"
+       cy="829.43359"
+       fx="195.33826"
+       fy="829.43359"
+       r="4.6804004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5609"
+       id="radialGradient3928"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.4482099,-0.88076777,0.44611691,1.2400407,-734.71875,16.542268)"
+       cx="190.56529"
+       cy="823.99664"
+       fx="190.56529"
+       fy="823.99664"
+       r="4.6804004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5617"
+       id="radialGradient3931"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.9007118,-1.7612511,0.97713395,1.054506,-1056.5932,322.56046)"
+       cx="182.9639"
+       cy="817.71893"
+       fx="182.9639"
+       fy="817.71893"
+       r="4.6804004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5585"
+       id="radialGradient3934"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1567555,-0.46378445,0.32576965,1.5149395,-585.05799,-292.29163)"
+       cx="188.62074"
+       cy="838.05261"
+       fx="188.62074"
+       fy="838.05261"
+       r="4.6804004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5529"
+       id="radialGradient3937"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1994978,-1.5877232,0.8148685,1.433936,-990.59209,-19.31492)"
+       cx="183.14066"
+       cy="832.6156"
+       fx="183.14066"
+       fy="832.6156"
+       r="4.6804004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5521"
+       id="radialGradient3940"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0853084,-1.7113104,0.91462146,1.1473145,-1046.3751,234.22584)"
+       cx="179.60512"
+       cy="826.33783"
+       fx="179.60512"
+       fy="826.33783"
+       r="4.6804004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5481"
+       id="radialGradient3943"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7737059,-1.5586364,0.89838499,1.1304498,-968.41032,206.11285)"
+       cx="172.77568"
+       cy="822.84552"
+       fx="172.77568"
+       fy="822.84552"
+       r="4.6804004" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5497"
+       id="radialGradient3946"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.9150981,-1.3980859,0.75451656,1.0335369,-877.13233,265.01729)"
+       cx="171.52333"
+       cy="828.81995"
+       fx="171.52333"
+       fy="828.81995"
+       r="3.3611441" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5489"
+       id="radialGradient3949"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.681911,-2.4567195,1.5358231,1.0514503,-1482.3872,404.78154)"
+       cx="164.22556"
+       cy="828.89893"
+       fx="164.22556"
+       fy="828.89893"
+       r="3.3611441" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5399"
+       id="radialGradient3952"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.9651865,-1.3793891,0.83778223,1.1935707,-962.61281,121.62598)"
+       cx="168.71817"
+       cy="839.98291"
+       fx="168.71817"
+       fy="839.98291"
+       r="3.4395537" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5513"
+       id="radialGradient3955"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8269291,-1.270596,0.76133904,1.094693,-869.07353,174.59386)"
+       cx="167.41577"
+       cy="834.72333"
+       fx="167.41577"
+       fy="834.72333"
+       r="3.3611441" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5505"
+       id="radialGradient3958"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6816374,-1.654613,0.87185079,0.88609049,-932.98447,416.84673)"
+       cx="163.52441"
+       cy="832.08313"
+       fx="163.52441"
+       fy="832.08313"
+       r="3.0716155" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5657"
+       id="radialGradient3961"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0979705,-2.1584764,1.0256264,0.99687628,-1123.8804,398.18863)"
+       cx="159.76756"
+       cy="828.51599"
+       fx="159.76756"
+       fy="828.51599"
+       r="2.8664658" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5665"
+       id="radialGradient3964"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4229091,-2.9394542,1.569681,0.75983945,-1478.5691,718.05363)"
+       cx="158.092"
+       cy="835.60809"
+       fx="158.092"
+       fy="835.60809"
+       r="2.5559199" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5399"
+       id="radialGradient3967"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8496509,-2.1737343,1.0306986,0.8770311,-1101.2016,508.48198)"
+       cx="160.04149"
+       cy="838.00018"
+       fx="160.04149"
+       fy="838.00018"
+       r="2.947994" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5399"
+       id="radialGradient3970"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1377545,-1.3672891,0.71795469,1.1225212,-886.35262,169.69469)"
+       cx="162.46101"
+       cy="842.27515"
+       fx="162.46101"
+       fy="842.27515"
+       r="3.3611441" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5577"
+       id="radialGradient3974"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.2361423,-1.3148539,0.5093937,0.86631434,-734.20956,393.34591)"
+       cx="173.94826"
+       cy="835.27167"
+       fx="173.94826"
+       fy="835.27167"
+       r="3.3611441" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient3977"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.2271983,-0.54657773,0.21655964,1.2786489,-461.12502,-168.16144)"
+       cx="111.5"
+       cy="867.40869"
+       fx="111.5"
+       fy="867.40869"
+       r="36" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient3980"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2615175,-0.68972345,0.54031272,0.98824232,-584.48089,189.207)"
+       cx="205.21799"
+       cy="834.3504"
+       fx="205.21799"
+       fy="834.3504"
+       r="35.001785" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5561"
+       id="radialGradient3983"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.6100969,0.72678855,-1.220192,-2.7031621,1478.7159,3057.3627)"
+       cx="202.93965"
+       cy="850.6123"
+       fx="202.93965"
+       fy="850.6123"
+       r="3.4851551" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5553"
+       id="radialGradient3986"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.10873359,2.7897509,-1.963161,0.07651633,1763.8873,305.68122)"
+       cx="191.70425"
+       cy="855.06628"
+       fx="191.70425"
+       fy="855.06628"
+       r="3.4851551" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5545"
+       id="radialGradient3989"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.8432754,-0.3893485,0.64237079,-3.0411475,-115.62451,3592.9116)"
+       cx="184.69855"
+       cy="859.32812"
+       fx="184.69855"
+       fy="859.32812"
+       r="3.4851551" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5537"
+       id="radialGradient3992"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.3119183,-0.41769309,0.86584641,-2.7195081,-423.70835,3305.9026)"
+       cx="177.36024"
+       cy="854.85791"
+       fx="177.36024"
+       fy="854.85791"
+       r="3.4851551" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4897"
+       id="radialGradient3998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9578544,2.746548,-1.2399567,0.43243301,1076.3836,258.50129)"
+       cx="96.437828"
+       cy="887.80237"
+       fx="96.437828"
+       fy="887.80237"
+       r="8.59375" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5569"
+       id="radialGradient4001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.5525597,0.89425674,-1.2349988,-2.1441375,1507.5059,2538.4658)"
+       cx="211.77847"
+       cy="849.6156"
+       fx="211.77847"
+       fy="849.6156"
+       r="3.4851551" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4925"
+       id="radialGradient4004"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.5131179,0.61465142,-0.1644001,0.93964954,-217.93521,-8.15062)"
+       cx="136.48871"
+       cy="870.99658"
+       fx="136.48871"
+       fy="870.99658"
+       r="20.456385" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4007"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,0.55224554,-52.8217,421.10672)"
+       cx="123.91041"
+       cy="869.7597"
+       fx="123.91041"
+       fy="869.7597"
+       r="23.58704" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4010"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.7506636,0.03001327,-0.00558534,0.51188611,-237.06701,455.38273)"
+       cx="126.03658"
+       cy="876.08081"
+       fx="126.03658"
+       fy="876.08081"
+       r="20.82412" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4013"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3218384,-0.20498821,0.09083796,1.0288936,-290.76761,29.151768)"
+       cx="145.93912"
+       cy="897.45251"
+       fx="145.93912"
+       fy="897.45251"
+       r="36.640869" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4016"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2201442,0.27156614,-0.99820037,4.4849051,757.44222,-3062.2768)"
+       cx="194.459"
+       cy="878.28363"
+       fx="194.459"
+       fy="878.28363"
+       r="5.2992649" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4019"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,4.6619396,-132.92845,-3174.8308)"
+       cx="206.63206"
+       cy="881.91754"
+       fx="206.63206"
+       fy="881.91754"
+       r="5.25705" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4022"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,3.9933955,-136.67845,-2579.9978)"
+       cx="220.71251"
+       cy="880.35461"
+       fx="220.71251"
+       fy="880.35461"
+       r="6.1182299" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4025"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1481438,-0.4942326,1.2868396,2.9894364,-1250.078,-1578.5554)"
+       cx="233.94568"
+       cy="878.8551"
+       fx="233.94568"
+       fy="878.8551"
+       r="8.2423649" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4028"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9051723,-0.51724154,1.0478803,1.8337896,-976.38314,-548.18982)"
+       cx="242.16049"
+       cy="875.71472"
+       fx="242.16049"
+       fy="875.71472"
+       r="10.253045" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4031"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.4509904,-0.01484606,0.00530555,0.87591475,-238.25541,144.87942)"
+       cx="150.36375"
+       cy="913.81213"
+       fx="150.36375"
+       fy="913.81213"
+       r="40.347977" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4034"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,3.7931035,-138.55345,-2410.4063)"
+       cx="194.5"
+       cy="887.12354"
+       fx="194.5"
+       fy="887.12354"
+       r="3.625" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4037"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,3.7931035,-139.17845,-2415.1908)"
+       cx="201.75"
+       cy="889.86786"
+       fx="201.75"
+       fy="889.86786"
+       r="3.625" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4040"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,3.7931035,-140.11595,-2426.2684)"
+       cx="210.25"
+       cy="892.95306"
+       fx="210.25"
+       fy="892.95306"
+       r="3.625" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4043"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,3.7931035,-139.17845,-2428.1973)"
+       cx="218.25"
+       cy="894.28546"
+       fx="218.25"
+       fy="894.28546"
+       r="3.625" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4046"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,3.7931035,-138.86595,-2428.5313)"
+       cx="226"
+       cy="894.95026"
+       fx="226"
+       fy="894.95026"
+       r="3.625" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4049"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,3.7931035,-138.86595,-2430.7188)"
+       cx="232.5"
+       cy="894.62073"
+       fx="232.5"
+       fy="894.62073"
+       r="3.625" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4052"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,3.7931035,-138.86595,-2433.5529)"
+       cx="240.25"
+       cy="895.28546"
+       fx="240.25"
+       fy="895.28546"
+       r="3.625" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4055"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,3.7931035,-138.55345,-2431.6456)"
+       cx="247.625"
+       cy="894.28833"
+       fx="247.625"
+       fy="894.28833"
+       r="3.625" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4058"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7341994,-0.1441103,0.07646829,0.92020657,-196.80481,129.34659)"
+       cx="150.98096"
+       cy="925.81622"
+       fx="150.98096"
+       fy="925.81622"
+       r="37.27776" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4061"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,5.0694445,-139.17845,-3621.6052)"
+       cx="193.125"
+       cy="905.25085"
+       fx="193.125"
+       fy="905.25085"
+       r="2.25" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4064"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,3.9772728,-139.17845,-2638.9977)"
+       cx="198.375"
+       cy="907.36932"
+       fx="198.375"
+       fy="907.36932"
+       r="2.75" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4067"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,3.3854166,-139.17845,-2104.5522)"
+       cx="204.375"
+       cy="908.73334"
+       fx="204.375"
+       fy="908.73334"
+       r="3" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4070"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2338818,-0.20008895,0.9375,5.78125,-982.90152,-4240.1658)"
+       cx="204.56003"
+       cy="908.4082"
+       fx="204.56003"
+       fy="908.4082"
+       r="3" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4073"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2460191,-0.09968153,0.43478261,5.4347826,-530.64726,-3955.4133)"
+       cx="212.125"
+       cy="910.9455"
+       fx="212.125"
+       fy="910.9455"
+       r="2.875" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4076"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2491744,-0.04542453,0.20833334,5.7291667,-329.1227,-4242.0031)"
+       cx="222.12718"
+       cy="911.84955"
+       fx="222.12718"
+       fy="911.84955"
+       r="3" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4079"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,5.5625,-139.17845,-4106.1649)"
+       cx="229"
+       cy="914.48157"
+       fx="229"
+       fy="914.48157"
+       r="2.5" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4082"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,4.5833334,-139.17845,-3207.3233)"
+       cx="235.25"
+       cy="913.43036"
+       fx="235.25"
+       fy="913.43036"
+       r="3" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4085"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,4.6,-139.17845,-3222.5584)"
+       cx="242.625"
+       cy="913.50079"
+       fx="242.625"
+       fy="913.50079"
+       r="3.125" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4088"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.240733,-0.15192649,0.46875,3.828125,-565.37465,-2478.7564)"
+       cx="250.2542"
+       cy="913.4881"
+       fx="250.2542"
+       fy="913.4881"
+       r="4" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4091"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.2023069,-0.09781587,0.04278317,0.96325549,-237.13263,85.083467)"
+       cx="151.40891"
+       cy="935.25281"
+       fx="151.40891"
+       fy="935.25281"
+       r="37.623112" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4915"
+       id="radialGradient4094"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.2949189,4.3451156,-2.2595626,1.1934121,1936.0088,-748.88045)"
+       cx="138.56595"
+       cy="947.06519"
+       fx="138.56595"
+       fy="947.06519"
+       r="25.25" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4915"
+       id="radialGradient4097"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1387469,-1.0403488,3.0445769,6.2590362,-3021.6839,-4812.1938)"
+       cx="120.09776"
+       cy="945.57587"
+       fx="120.09776"
+       fy="945.57587"
+       r="9.75" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4103"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,4.095652,-52.8217,-2923.8268)"
+       cx="185.35049"
+       cy="954.57196"
+       fx="185.35049"
+       fy="954.57196"
+       r="4.9351301" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4106"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,4.2537395,-52.8217,-3073.2421)"
+       cx="179.41827"
+       cy="955.2063"
+       fx="179.41827"
+       fy="955.2063"
+       r="4.7152352" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4109"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,3.8516016,-52.8217,-2690.5158)"
+       cx="172.1805"
+       cy="955.98718"
+       fx="172.1805"
+       fy="955.98718"
+       r="5.09619" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4112"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,3.8516016,-52.8217,-2698.7941)"
+       cx="167.8772"
+       cy="959.81824"
+       fx="167.8772"
+       fy="959.81824"
+       r="5.09619" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,3.8516016,-52.8217,-2683.1574)"
+       cx="160.15968"
+       cy="954.78143"
+       fx="160.15968"
+       fy="954.78143"
+       r="5.09619" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4118"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1872068,-0.39120344,0.519792,1.5774416,-549.01441,-451.84217)"
+       cx="181.00894"
+       cy="972.18604"
+       fx="181.00894"
+       fy="972.18604"
+       r="9.3388348" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4121"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1968894,-0.36049388,0.60682015,2.0147266,-636.02166,-885.07239)"
+       cx="174.2663"
+       cy="972.35919"
+       fx="174.2663"
+       fy="972.35919"
+       r="8.6317301" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4861"
+       id="radialGradient4124"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.212662,-0.30323401,0.51043516,2.0412794,-545.25814,-921.74579)"
+       cx="169.463"
+       cy="972.58459"
+       fx="169.463"
+       fy="972.58459"
+       r="8.6317301" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4915"
+       id="radialGradient4127"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.25122128,-0.63448482,1.0025723,0.39696378,-859.35835,699.28394)"
+       cx="141.99956"
+       cy="944.37158"
+       fx="141.99956"
+       fy="944.37158"
+       r="22" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4915"
+       id="radialGradient4130"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.7941748,-0.74000786,0.4881382,-0.52386884,-238.70099,1523.5467)"
+       cx="107.23957"
+       cy="899.57697"
+       fx="107.23957"
+       fy="899.57697"
+       r="42.542702" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5009"
+       id="linearGradient4134"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,0,0,1.25,-139.17845,-160.28276)"
+       x1="189.24265"
+       y1="893.06927"
+       x2="192.92894"
+       y2="893.77637" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4973"
+       id="radialGradient3481"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.35339426,-2.0800347,0.42684483,-0.07252017,-138.66719,527.63093)"
+       cx="170.87062"
+       cy="898.99225"
+       fx="170.87062"
+       fy="898.99225"
+       r="26.5" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="127.55454"
+     inkscape:cy="87.877664"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1215"
+     inkscape:window-height="878"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     style="display:inline">
+    <path
+       sodipodi:type="arc"
+       style="fill:#18003f;fill-opacity:1;stroke:none"
+       id="path4704-8"
+       sodipodi:cx="140"
+       sodipodi:cy="907.36218"
+       sodipodi:rx="95"
+       sodipodi:ry="95"
+       d="m 235,907.36218 a 95,95 0 1 1 -190,0 95,95 0 1 1 190,0 z"
+       transform="matrix(1.0526316,0,0,1.0526316,-47.368421,-855.11809)"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="logo"
+     style="display:inline">
+    <path
+       transform="translate(0,-852.36217)"
+       style="fill:#ffffff;stroke:none"
+       d="m 54.190925,937.55471 c 4.882663,9.76526 -5.6581,10.62487 -12.036487,19.48648 20.76105,-6.93358 35.66095,-9.41171 12.036487,-19.48648 z m -32.105762,8.03281 c 1.21155,8.52559 6.615875,11.6264 0.582825,14.31714 20.078937,5.1906 12.9557,0.28031 -0.582825,-14.31714 z m 36.109475,9.17307 c 7.599487,8.86608 9.741287,4.0574 5.878875,21.9951 -3.3597,0.63224 -7.093425,1.23612 -13.734275,3.0661 -0.823,-0.13327 -1.599513,-0.27141 -2.457975,-0.40543 -0.06687,-0.24142 -0.09525,-0.47445 -0.152038,-0.70953 16.167075,-4.65404 22.672763,-7.95084 1.444375,-9.32511 5.686363,3.19511 5.858688,4.67335 -1.545737,8.97044 -1.8822,-8.42333 2.4265,-12.89282 -4.890613,-21.31097 3.637688,15.51107 -13.504512,25.65711 6.56305,26.91107 32.787413,2.04876 21.259438,25.79414 -7.44995,21.15894 0.636375,-1.4385 1.136488,-2.7617 1.495063,-3.9025 2.015487,0.5803 4.11695,1.2749 5.42275,3.2436 0.921212,-1.9543 1.5908,-3.6553 2.052537,-5.11864 2.176625,0.62202 4.55315,1.24394 5.980225,3.39544 5.770788,-12.24181 2.170263,-14.61323 -6.43635,-10.11058 -1.477325,-0.88759 -4.245612,-0.23336 -7.95675,1.69774 -1.852562,-0.63313 -5.137675,0.48028 -9.4518,3.0155 -4.883512,1.60749 -11.9414,3.28644 -14.317087,4.94134 -4.2325,2.9483 -3.05855,8.1243 -8.311525,8.0834 13.305,4.1507 23.019637,2.6221 26.3029,-7.0192 1.053312,0.3266 2.100037,0.737 3.01545,1.3684 -0.1205,-0.025 -0.233738,-0.05 -0.35475,-0.076 0.174975,0.055 0.3337,0.1219 0.5068,0.1774 0.561412,0.41 1.0713,0.9068 1.49505,1.5457 0.152012,-0.3225 0.266362,-0.6034 0.40545,-0.9122 12.3117,4.1774 19.63715,8.7638 24.4024,3.8517 14.388975,-14.83248 14.568275,-21.22319 2.863412,-25.36533 -0.0825,-1.15808 -0.12805,-2.26201 -0.177375,-3.31956 4.405163,-0.4759 8.4869,-1.16817 11.377638,-2.15387 5.144662,-1.75441 2.832712,-4.45343 0.962925,-5.0427 -9.593588,-3.02343 -5.881038,0.38419 -11.0989,1.95114 -0.488963,0.14685 -0.9362,0.25779 -1.3937,0.38014 -0.111125,-20.37131 5.597325,-17.86261 -10.440075,-20.98149 z m -7.44995,3.42094 c 6.026125,3.38599 5.962662,4.82465 -2.863425,9.75585 17.208912,-4.87119 24.71375,-8.34136 2.863425,-9.75585 z m -34.969175,4.02903 c 2.838337,1.91123 4.213,3.81558 14.342437,5.72682 -25.3589625,23.976 -22.738625,29.61436 1.140288,12.03653 -6.251663,6.73451 -10.3189,14.65956 -16.977775,16.39492 -9.523688,2.48194 -7.273038,3.71717 -13.987688,4.81457 -1.683175,13.2235 6.0727875,7.1211 11.732425,2.6101 4.220975,-3.3644 8.069625,-3.7778 19.81585,-10.06002 28.283713,-15.12696 6.074175,-6.74862 -4.586525,-2.2806 12.463925,-16.82947 18.663488,-19.24858 -2.888762,-12.6193 19.298925,-17.23119 16.022987,-14.43179 -8.59025,-16.62302 z M 63.1106,981.08887 c -0.08113,0.36709 -0.143425,0.70716 -0.228075,1.08957 -1.25915,-0.2975 -2.613325,-0.57872 -4.02905,-0.86155 1.402788,-0.0517 2.828,-0.1366 4.257125,-0.22802 z"
+       id="path5065-1-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <text
+       transform="translate(0,-852.36217)"
+       xml:space="preserve"
+       style="font-size:11.2731657px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:RuikaMonoKyohkan-09;-inkscape-font-specification:RuikaMonoKyohkan-09 Heavy"
+       x="35.43005"
+       y="1024.1161"
+       id="text5178"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999"><tspan
+         sodipodi:role="line"
+         id="tspan5180"
+         x="35.43005"
+         y="1024.1161">Sonidori</tspan></text>
+  </g>
+  <g
+     inkscape:label="sonidori"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-852.36217)"
+     style="display:inline">
+    <path
+       style="fill:url(#linearGradient4134);fill-opacity:1;stroke:none"
+       d="M 113.24106,853.24168 77.498875,1049.8042 c 1.99635,0.459 4.014662,0.8734 6.054687,1.2109 L 119.33481,854.21824 c -2.01021,-0.39387 -4.04234,-0.7051 -6.09375,-0.97656 z"
+       id="path4704"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:#f63700;fill-opacity:1;stroke:none"
+       d="m 95.243175,986.07313 -6.066938,11.80569 c -9.736937,-1.36536 -6.927475,7.95208 -3.995875,7.42418 2.672138,-2.9797 5.36925,-3.2325 6.205588,2.6451 5.311062,0.7644 3.242225,-3.7603 2.97985,-8.93303 l 5.069325,-10.80805 z"
+       id="path4983"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4130);fill-opacity:1;stroke:none"
+       d="m 61.5533,908.75619 6.573912,8.85949 c -8.916475,41.52545 14.746288,71.84916 39.532748,83.04262 16.27238,7.3485 30.67408,5.8961 53.26834,-5.65211 l -43.75,-63.75 25.30231,-16.95398 -14.4687,-27.03764 -62.061348,-14.07803 -17.629012,27.85753 z"
+       id="path4706"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsccccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4127);fill-opacity:1;stroke:none"
+       d="m 142.4908,985.94369 8.59375,16.87501 -5.46875,-1.7188 1.875,2.3438 -6.25,-0.4688 0.625,2.3438 -4.0625,-1.0938 1.5625,3.5938 -8.09629,-2.6766 -0.0288,2.6766 -6.64752,-3.2068 1.94432,3.8665 -6.95542,-5.5048 1.03362,3.5951 -5.58383,-4.3764 -1.17743,3.4925 -6.27681,-7.33398 -1.33693,3.21788 -3.93766,-6.40436 0.59495,4.63984 -2.75104,-4.79799 -0.740085,2.99882 -3.947412,-24.56132 5.033247,-1.95596 z"
+       id="path4953"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4124);fill-opacity:1;stroke:none"
+       d="m 150.67584,1004.4219 c -2.80511,39.2644 4.8642,59.488 6.4697,18.5864 1.75281,-21.957 1.56545,-1.6649 4.82305,-10.9827 l -2.78404,-22.50994 z"
+       id="path4733"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4121);fill-opacity:1;stroke:none"
+       d="m 157.15628,1006.4232 c -1.76151,52.9616 4.34851,56.8563 9.76775,5.1416 l 3.66964,-6.6616 -5.65238,-21.42496 z"
+       id="path4733-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4118);fill-opacity:1;stroke:none"
+       d="m 167.10205,1004.2736 c -7.98402,56.4269 -0.77407,56.6094 6.98354,9.9033 l -0.7868,-17.77277 z"
+       id="path4733-02"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4115);fill-opacity:1;stroke:none"
+       d="m 141.63266,975.27678 4.41941,25.63262 c 7.15129,18.1064 5.18943,13.3423 7.07107,-2.65164 l -0.88388,-22.98098 z"
+       id="path4762-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4112);fill-opacity:1;stroke:none"
+       d="m 150.02956,982.78979 4.41941,25.63261 c 7.15129,18.1064 5.18943,13.3423 7.07107,-2.6516 l -0.88388,-22.98101 z"
+       id="path4762"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4109);fill-opacity:1;stroke:none"
+       d="m 156.65869,978.81232 4.41941,25.63258 c 7.15129,18.1064 5.18943,13.3423 7.07106,-2.6516 l -0.88387,-22.98098 z"
+       id="path4762-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4106);fill-opacity:1;stroke:none"
+       d="m 166.8071,977.39926 1.48231,25.96854 c 5.05055,18.8009 3.64195,13.845 7.32628,-1.8322 l 1.7295,-22.93281 z"
+       id="path4762-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4103);fill-opacity:1;stroke:none"
+       d="m 174.63417,978.05512 -0.68666,26.00178 c 3.03863,22.5785 1.12371,24.9158 7.45346,-1.2154 l 3.63437,-22.70894 z"
+       id="path4762-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3481);fill-opacity:1;stroke:none"
+       d="M 140.3125 26.375 L 123.4375 33.25 L 157.375 60.71875 L 177.1875 102 L 183.84375 152.9375 L 184.9375 156.5625 L 185.96875 165.71875 L 185.6875 159.125 L 188.4375 168.25 C 187.33758 152.0284 187.1487 137.2616 186.59375 123.5625 L 189.21875 131.375 L 186.25 115.09375 C 185.82199 107.88634 185.15535 100.98334 184.09375 94.34375 L 186.75 99.0625 L 183.40625 90.5625 C 182.65787 86.59625 181.73644 82.70002 180.59375 78.90625 L 182.6875 81.53125 L 180 76.9375 C 177.17758 68.236268 173.10394 59.970188 167.21875 51.96875 L 174.65625 55.40625 L 164.25 48.125 C 158.14577 40.683162 150.34109 33.460342 140.3125 26.375 z "
+       transform="translate(0,852.36217)"
+       id="path4725"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4097);fill-opacity:1;stroke:none"
+       d="m 103.7408,991.56869 6.875,11.25001 -15,-14.37501 0,9.375 -6.25,-14.375 -0.625,9.375 -9.427425,-19.05993 0.7784,10.73211 -7.600975,-24.79718 0.707737,12.08515 -3.500687,-15.30493 -0.1125,-9.26485 -0.502363,-10.04117 -1.8763,22.11849 -2.125262,-24.87523 3.1522,-20.05539 18.426962,6.54649 35.565903,18.38866 25.56851,59.26611 z"
+       id="path4963"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4094);fill-opacity:1;stroke:none"
+       d="m 146.8658,991.56869 4.73571,9.79191 -8.44964,-1.68772 4.33893,7.52082 -8.08,-8.81501 4.31524,7.61451 -8.11024,-6.29951 5,7.50001 -8.65385,-7.0192 4.03374,7.6641 -11.62989,-10.64491 5,10.00001 -9.375,-11.25001 4.22819,12.08471 -10.47819,-15.20971 3.75,11.25001 -8.75,-14.37501 5.625,15.00001 -11.875,-18.12501 0.46875,6.875 -3.880175,-15.42186 -1.292713,8.91021 -9.045862,-22.86335 -0.798963,-24.84417 19.662723,17.70949 z"
+       id="path4943"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4091);fill-opacity:1;stroke:none"
+       d="m 180.0816,964.22824 2.65165,29.16815 -7.07108,-7.48161 -6.18717,9.61549 -4.31219,-6.91941 -6.29442,9.20495 -7.07106,-5.71384 -3.01778,9.72273 -5.82106,-9.31219 -3.53554,8.83879 -4.41941,-7.95491 -4.0533,8.47271 -5.66941,-9.35659 -3.53555,6.18718 -5.30329,-11.49048 -3.53554,8.83883 -6.18717,-11.49048 -1.76778,7.95495 -6.187175,-12.37438 -3.53555,5.30331 0.8839,-15.02602 -6.1872,4.41941 5.303313,-25.63261 z"
+       id="path4803"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4088);fill-opacity:1;stroke:none"
+       d="m 166.44655,965.48247 11.875,-1.5625 -0.9375,27.5 c -3.00543,13.75993 -4.4077,-1.70573 -5.9375,-7.1875 z"
+       id="path5683"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4085);fill-opacity:1;stroke:none"
+       d="m 167.69655,965.16997 -0.3125,22.1875 c -2.69961,13.07753 -2.29115,8.38146 -5,-1.25 l -5,-18.4375 z"
+       id="path5687"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4082);fill-opacity:1;stroke:none"
+       d="m 149.25905,968.60747 9.375,-2.5 -0.3125,21.875 c -3.25641,12.82263 -3.27809,4.85451 -5.625,-3.125 z"
+       id="path5689"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4079);fill-opacity:1;stroke:none"
+       d="m 150.82155,966.73247 -1.875,21.5625 c -1.76963,13.44933 -2.02701,6.9046 -4.6875,-1.875 l -4.6875,-20.3125 z"
+       id="path5691"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4076);fill-opacity:1;stroke:none"
+       d="m 129.88405,967.04497 13.125,-0.625 -1.25,15 c -1.38759,12.1369 -4.33065,12.37231 -6.25,4.375 z"
+       id="path5693"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4073);fill-opacity:1;stroke:none"
+       d="m 126.75905,967.66997 5,3.4375 2.8125,13.75 c -0.6036,12.28473 -3.87599,4.3341 -7.1875,-1.875 z"
+       id="path5695"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4070);fill-opacity:1;stroke:none"
+       d="m 118.94655,967.04497 6.25,-3.75 1.25,14.375 c -1.39077,13.51615 -0.39265,17.43074 -6.25,2.8125 z"
+       id="path5697"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4067);fill-opacity:1;stroke:none"
+       d="m 110.6653,966.73247 7.1875,0.9375 2.1875,13.75 c -2.69444,8.71045 -1.80797,7.3595 -5.3125,0 z"
+       id="path5721"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4064);fill-opacity:1;stroke:none"
+       d="m 104.7278,963.91997 8.4375,0 -0.9375,15 c 0.22157,12.65565 -1.11447,6.15126 -4.6875,-1.25 z"
+       id="path5723"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4061);fill-opacity:1;stroke:none"
+       d="m 99.7278,961.10747 6.5625,0.9375 -1.25,16.25 c -1.28139,10.19906 -1.85369,0.5753 -4.6875,-4.6875 z"
+       id="path5725"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4058);fill-opacity:1;stroke:none"
+       d="m 143.40045,941.24728 22.28277,-0.44869 15.48581,17.99699 -2.52051,21.40539 -6.81218,-8.6872 -3.16941,8.16942 -4.93719,-7.54441 -3.16943,10.45495 -5.9283,-8.68719 -1.66053,10.82108 -7.69607,-9.52665 -4.93718,11.81217 -5.66942,-12.32993 -3.53553,9.41941 -6.29442,-11.81219 -5.82107,7.91054 -3.53553,-10.19608 -2.02665,6.91943 -4.41941,-9.46384 -5.30331,7.43719 -1.6161,-11.85661 -6.812202,3.6872 0.8839,-7.84773 -6.963863,3.64276 4.053325,-17.11548 z"
+       id="path4803-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4055);fill-opacity:1;stroke:none"
+       d="m 167.69655,951.41997 4.0625,-0.9375 3.75,15.9375 c -2.22568,16.0936 -2.07649,9.93072 -7.8125,-0.9375 z"
+       id="path5767"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4052);fill-opacity:1;stroke:none"
+       d="m 157.5403,952.35747 4.0625,-0.9375 3.75,15.9375 c -2.22568,16.0936 -2.07649,9.93072 -7.8125,-0.9375 z"
+       id="path5767-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4049);fill-opacity:1;stroke:none"
+       d="m 148.4778,953.29497 4.0625,-0.9375 3.75,15.9375 c -2.22568,16.0936 -2.07649,9.93072 -7.8125,-0.9375 z"
+       id="path5767-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4046);fill-opacity:1;stroke:none"
+       d="m 139.7278,955.48247 4.0625,-0.9375 3.75,15.9375 c -2.22568,16.0936 -2.07649,9.93072 -7.8125,-0.9375 z"
+       id="path5767-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4043);fill-opacity:1;stroke:none"
+       d="m 129.7278,953.91997 4.0625,-0.9375 3.75,15.9375 c -2.22568,16.0936 -2.07649,9.93072 -7.8125,-0.9375 z"
+       id="path5767-85"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4040);fill-opacity:1;stroke:none"
+       d="m 119.4153,951.10747 4.0625,-0.9375 3.75,15.9375 c -2.22567,16.0936 -2.07649,9.93072 -7.8125,-0.9375 z"
+       id="path5767-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4037);fill-opacity:1;stroke:none"
+       d="m 109.1028,949.85747 4.0625,-0.9375 3.75,15.9375 c -2.22567,16.0936 -2.07649,9.93072 -7.8125,-0.9375 z"
+       id="path5767-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4034);fill-opacity:1;stroke:none"
+       d="m 100.6653,946.10747 4.0625,-0.9375 3.75,15.9375 c -2.22567,16.0936 -2.07649,9.93072 -7.8125,-0.9375 z"
+       id="path5767-93"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4031);fill-opacity:1;stroke:none"
+       d="m 142.51655,918.26632 23.13642,2.75751 12.3309,15.4175 -7.51526,-1.99479 11.64615,9.41999 -4.82991,-1.72851 7.6581,19.34973 -8.03078,-7.10246 1.15578,9.69131 -9.65991,-12.22273 -0.77664,12.69607 -6.5533,-10.04441 -4.41942,9.72271 -6.18719,-7.95495 -1.03554,11.59773 -8.32106,-10.08884 -1.81219,8.68718 -7.54441,-8.57994 -2.91054,6.91941 -6.91941,-8.68719 -3.94608,6.03554 -4.78552,-7.69607 -5.15165,6.29442 -4.41941,-10.08884 -4.678317,6.81219 -2.758875,-9.57107 -7.588838,6.66053 3.428313,-9.20495 -6.70495,-2.91054 8.284262,-17.1599 z"
+       id="path4803-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4028);fill-opacity:1;stroke:none"
+       d="m 152.5031,916.07949 21.2132,22.09709 c 15.0482,31.78725 4.8754,24.53073 -10.6066,7.95495 l -13.25825,-24.74874 z"
+       id="path5851"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4025);fill-opacity:1;stroke:none"
+       d="m 146.23111,918.62688 17.0782,25.42865 c 6.45658,24.72323 0.6537,25.01912 -11.82106,6.00363 l -8.78485,-26.66662 z"
+       id="path5851-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4022);fill-opacity:1;stroke:none"
+       d="m 137.42027,917.80306 10.76552,28.67725 c 0.20108,29.80494 -5.23575,24.4039 -12.88568,3.12102 l -2.4099,-27.97274 z"
+       id="path5851-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4019);fill-opacity:1;stroke:none"
+       d="m 134.76396,918.99562 -1.06325,30.27622 c -2.85851,22.54295 -7.35908,23.99485 -13.14262,1.74716 l 0.54825,-28.071 z"
+       id="path5851-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4016);fill-opacity:1;stroke:none"
+       d="m 122.05619,917.27917 -1.08323,25.62925 c -3.38792,24.41619 -9.68937,30.3401 -11.62992,-0.95904 l 7.02085,-23.0107 z"
+       id="path5851-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4013);fill-opacity:1;stroke:none"
+       d="m 88.24655,916.94047 -3.820438,18.04379 8.151025,-5.66942 -0.883887,8.83883 10.49936,-6.49048 2.65165,13.94607 14.24938,-11.96384 6.44606,16.74937 10.82106,-14.50825 12.58884,9.9816 2.07106,-10.45496 12.00826,10.5622 -2.65165,-13.83885 9.50825,9.57108 -5.45495,-17.00825 10.34772,2.13388 c -9.2944,-15.83797 -18.04704,-20.76197 -36.23922,-31.98986 l -27.40038,13.25826 z"
+       id="path4837"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4010);fill-opacity:1;stroke:none"
+       d="m 79.318875,909.86941 4.419412,15.9099 8.57995,-9.57107 5.5622,7.80329 8.213823,-8.25824 8.83884,8.1066 4.11611,-12.37437 9.72273,9.31219 1.35723,-15.08883 z"
+       id="path4839"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4007);fill-opacity:1;stroke:none"
+       d="m 77.582513,905.89192 1.767762,17.41879 9.20495,-10.19607 2.696075,11.33883 8.83884,-12.37436 7.95496,11.49048 2.65165,-12.37437 11.07995,10.9283 -1.02018,-11.5568 14.54359,7.08041 1.67265,-13.41574 c -24.66027,-2.56812 -37.982898,-7.81132 -59.390248,1.66053 z"
+       id="path4839-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4004);fill-opacity:1;stroke:none"
+       d="m 114.57106,893.39008 3.27665,7.71446 14.53318,9.22289 -1.91463,-6.0072 6.40874,3.07872 9.92068,-1.12462 12.88262,-4.39314 -9.29668,-3.32251 13.56264,-2.18689 -20.16116,-8.35132 -12.64034,3.12848 -4.6967,3.38389 z"
+       id="path4729"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient4001);fill-opacity:1;stroke:none"
+       d="m 133.99682,914.99294 -8.68128,-6.36591 c -0.0927,-2.1446 -0.38486,-8.16027 7.25115,-4.89113 z"
+       id="path5182-95-64-04"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3998);fill-opacity:1;stroke:none"
+       d="m 58.4283,910.94369 11.115775,7.16572 -7.2548,-8.59767 8.09215,8.69758 -5.703125,-10.39063 6.640625,10.70313 -4.21875,-11.64063 4.75,11.67188 -0.921875,-12.60938 1.328125,12.26563 0.859375,-13.4375 -0.268063,12.84164 2.604588,-12.80204 -2.180275,13.47602 6.640625,-16.01562 -17.109375,2.42187 z"
+       id="path4859"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:#000000;stroke:none"
+       d="m 49.6783,901.25619 -33.75,41.25 1.212375,0.78369 C 33.031,933.26753 48.89075,923.36746 65.9283,908.75619 l 20,-7.5 z"
+       id="path4721"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3992);fill-opacity:1;stroke:none"
+       d="m 80.371363,917.53232 -1.333575,-10.68229 c 1.495362,-1.54006 5.667887,-5.88331 8.534887,1.91261 z"
+       id="path5182-95-64"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3989);fill-opacity:1;stroke:none"
+       d="m 93.215612,919.95469 -2.535925,-10.46225 c 1.311138,-1.69966 4.964413,-6.48791 8.696688,0.93275 z"
+       id="path5182-95-64-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3986);fill-opacity:1;stroke:none"
+       d="m 106.0333,917.62332 -4.5115,-9.77425 c 0.95766,-1.92115 3.61589,-7.32555 8.71289,-0.76684 z"
+       id="path5182-95-64-58"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3983);fill-opacity:1;stroke:none"
+       d="m 119.2592,916.49338 -8.17542,-7.0037 c 0.0696,-2.14549 0.23286,-8.16604 7.60001,-4.32922 z"
+       id="path5182-95-64-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3980);fill-opacity:1;stroke:none"
+       d="m 61.4631,875.86279 5.524275,-11.49049 -1.988738,7.73399 13.780613,-14.42784 -1.5579,3.49954 19.144037,-8.52825 -4.22525,6.32774 21.693053,-6.31664 -7.29204,5.74525 15.02602,-2.43068 -5.30329,3.31457 17.38737,3.71859 -8.76951,0.70082 15.247,5.08234 -16.57283,-1.76776 19.88738,8.17591 -6.08019,0.0829 8.68537,4.49282 -5.95221,-1.74809 6.53905,4.78773 -5.52171,-2.119 6.20604,6.0137 -5.59195,-3.39624 4.27505,4.54 -5.7458,-3.39754 4.07477,4.17412 -4.71177,-2.0321 2.90666,2.43533 -4.33495,-0.0978 2.98041,2.18295 -4.26584,-0.52505 1.34747,1.79724 -3.11058,-0.70576 1.98408,2.05569 -4.08694,-1.24227 1.0998,2.19589 -3.95204,-1.29811 2.52033,2.70865 -4.73013,-1.96624 2.28108,2.35154 -4.9684,-1.67804 3.99563,2.56725 -5.2982,-1.28354 1.45218,2.25759 -4.33985,-0.9326 -1.52221,0.31794 z"
+       id="path5673"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3977);fill-opacity:1;stroke:none"
+       d="M 59.097712,896.98843 54.0533,885.63119 c 7.961937,-22.66645 38.307725,-39.92739 62.8345,-29.00987 23.9122,10.64395 25.56325,15.45697 25.2905,28.38487 -4.62286,10.3376 -14.89877,9.36913 -22.5,13.75 -27.670288,-8.04003 -46.1645,-5.9172 -60.580588,-1.76776 z"
+       id="path4723"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3974);fill-opacity:1;stroke:none"
+       d="m 78.916813,889.84727 3.977475,-6.62914 c 1.527412,-0.20826 5.809737,-0.81535 3.977475,4.86136 z"
+       id="path5182-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient4939);fill-opacity:1;stroke:none"
+       id="path4731"
+       sodipodi:cx="107.47214"
+       sodipodi:cy="870.86218"
+       sodipodi:rx="6.472136"
+       sodipodi:ry="4"
+       d="m 113.94427,870.86218 c 0,2.20914 -2.89767,4 -6.47213,4 -3.57446,0 -6.47214,-1.79086 -6.47214,-4 0,-2.20914 2.89768,-4 6.47214,-4 3.57446,0 6.47213,1.79086 6.47213,4 z"
+       transform="matrix(1.1788152,-0.41580597,0.41580597,1.1788152,-403.01326,-90.016845)"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3970);fill-opacity:1;stroke:none"
+       d="m 63.0099,894.86629 3.977475,-6.62913 c 1.527412,-0.20827 5.809737,-0.81535 3.977475,4.86136 z"
+       id="path5182"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3967);fill-opacity:1;stroke:none"
+       d="m 56.627612,897.76846 2.339225,-7.36844 c 1.438038,-0.55534 5.46445,-2.13488 4.992538,3.81152 z"
+       id="path5182-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3964);fill-opacity:1;stroke:none"
+       d="m 57.03435,890.52507 0.691538,-7.69984 c 1.28405,-0.85299 4.873949,-3.26534 5.698262,2.64251 z"
+       id="path5182-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3961);fill-opacity:1;stroke:none"
+       d="m 59.239825,881.59403 1.9954,-7.46889 c 1.410775,-0.62135 5.359687,-2.38568 5.163725,3.57619 z"
+       id="path5182-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3958);fill-opacity:1;stroke:none"
+       d="m 64.721962,886.07056 2.83765,-7.19122 c 1.472651,-0.45568 5.59765,-1.75617 4.720188,4.14403 z"
+       id="path5182-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3955);fill-opacity:1;stroke:none"
+       d="m 69.415063,877.91484 3.977475,-6.62914 c 1.527412,-0.20826 5.809737,-0.81534 3.977475,4.86137 z"
+       id="path5182-00"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3952);fill-opacity:1;stroke:none"
+       d="m 69.699,893.17626 4.292537,-6.4296 c 1.535688,-0.13437 5.842301,-0.53423 3.738413,5.04751 z"
+       id="path5182-17"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3949);fill-opacity:1;stroke:none"
+       d="m 66.183563,872.88353 2.2127,-7.40741 c 1.428325,-0.57988 5.4271,-2.22811 5.057075,3.72547 z"
+       id="path5182-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3946);fill-opacity:1;stroke:none"
+       d="m 74.4974,883.66009 3.977475,-6.62913 c 1.527412,-0.20827 5.809737,-0.81535 3.977475,4.86136 z"
+       id="path5182-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3943);fill-opacity:1;stroke:none"
+       d="M 73.834475,869.29698 79.7915,858.98176 c 2.287588,-0.32408 8.701188,-1.26873 5.957025,7.5645 z"
+       id="path5182-95"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3940);fill-opacity:1;stroke:none"
+       d="m 81.02425,876.80999 6.3754,-10.7489 c 2.448263,-0.33768 9.312313,-1.32205 6.375425,7.88253 z"
+       id="path5182-95-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3937);fill-opacity:1;stroke:none"
+       d="m 87.874338,886.31174 6.166212,-11.18255 c 2.367925,-0.35132 9.00675,-1.3754 6.16623,8.20054 z"
+       id="path5182-95-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3934);fill-opacity:1;stroke:none"
+       d="m 91.3114,890.75217 8.86962,-6.10075 c 2.05553,0.61866 7.83188,2.32382 2.23048,8.45737 z"
+       id="path5182-95-62"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3931);fill-opacity:1;stroke:none"
+       d="m 87.432412,863.99368 5.538638,-9.23109 c 2.126925,-0.29001 8.09008,-1.13537 5.53865,6.76947 z"
+       id="path5182-95-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3928);fill-opacity:1;stroke:none"
+       d="m 96.043237,871.37763 7.975613,-7.23042 c 2.11973,0.33866 8.07202,1.25726 3.33976,8.08382 z"
+       id="path5182-95-67"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3925);fill-opacity:1;stroke:none"
+       d="m 101.17652,878.91992 9.14488,-5.67985 c 2.02439,0.714 7.7148,2.68707 1.83305,8.55232 z"
+       id="path5182-95-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3922);fill-opacity:1;stroke:none"
+       d="m 107.9551,888.4597 9.44145,-5.17188 c 1.98238,0.8235 7.55651,3.10443 1.36319,8.63967 z"
+       id="path5182-95-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3919);fill-opacity:1;stroke:none"
+       d="m 98.930325,862.13247 7.938485,-7.27118 c 2.12144,0.32782 8.07837,1.21593 3.38111,8.06663 z"
+       id="path5182-95-56"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3916);fill-opacity:1;stroke:none"
+       d="m 111.01357,868.44249 7.56502,-7.65897 c 2.13517,0.22134 8.12905,0.81051 3.78018,7.88749 z"
+       id="path5182-95-66"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3913);fill-opacity:1;stroke:none"
+       d="m 116.28772,878.22831 8.19912,-6.97598 c 2.10801,0.40518 8.02848,1.51058 3.08382,8.18489 z"
+       id="path5182-95-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:url(#radialGradient3910);fill-opacity:1;stroke:none"
+       d="m 121.70564,887.64039 8.4963,-6.61077 c 2.08828,0.49696 7.95475,1.86017 2.72297,8.3119 z"
+       id="path5182-95-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:#000000;stroke:none"
+       d="m 55.9283,881.25619 -6.521738,14.35854 C 31.125062,913.00297 21.4065,928.67862 8.4283,945.00619 l 3.944587,-0.92123 61.055413,-42.82877 7.259525,-1.9064 -3.101275,-1.53803 -20.40825,0.94443 c -1.8159,-3.03486 -0.912413,-11.5085 -1.25,-17.5 z"
+       id="path4719"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+    <path
+       style="fill:#1a1a1a;stroke:none"
+       d="m 53.287175,891.77269 c -13.123363,17.66149 -22.9694,28.39682 -33.145625,41.98446 1.325825,-0.44193 15.9099,-13.70018 15.9099,-13.70018 l -11.490488,11.49047 c 12.46165,-8.01586 25.446263,-25.93552 36.239226,-30.05203 l -7.95495,10e-6 z"
+       id="path5176"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\web\Sonidori\public_html\wiki\Sonidori\sonidori_icon.png"
+       inkscape:export-xdpi="112.49999"
+       inkscape:export-ydpi="112.49999" />
+  </g>
+</svg>
