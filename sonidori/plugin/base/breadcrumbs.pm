@@ -45,7 +45,8 @@ sub Inline()
 
   if ( $path ne '.' ){ unshift ( @dir, sprintf ( '<a href="%s?dir=%s&%s">%s</a>', $sonidori->{ 'SYSTEM' }{ 'CGI' }, &Common::URLEncode( '.' ), $sonidori->CreateGetData(), '.' ) ); }
 
-  return '<div>' . join( ' / ', @dir, $last ) . '</div>';
+  push( @dir, $last );#, '[' . $sonidori->{ 'ENV' }{ 'filepath' } .'|'.$sonidori->{ 'ENV' }{ 'page' }.'|'.$sonidori->{ 'GET' }{ 'dir' }.']');
+  return '<div>' . join( ' / ', @dir ) . '</div>';
 }
 
 1;

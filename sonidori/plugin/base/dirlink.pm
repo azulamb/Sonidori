@@ -81,7 +81,7 @@ sub Inline()
     my $name = join( '.', @name );
     $html .= sprintf( '<li id="file"><a href="%s?page=%s%s&%s">%s</a></li>%s', $sonidori->{ 'SYSTEM' }{ 'CGI' }, &Common::URLEncode( $spath . $name ), $tail eq 'md' ? '' : 'tail=' . $tail, $sonidori->CreateGetData(), $name, "\n" );
   }
-  $html .= "</ul>\n";
+  $html .= "</ul>$path\n";
 
   return $html;
 }

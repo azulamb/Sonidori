@@ -11,6 +11,10 @@ use utf8;
 sub GetSetting()
 {
   my %SYSTEM = (
+
+    # Enable edit(not 0)
+    'ENABLE_EDIT'           => 1,
+
     # Enable directory list(not 0).
     'ENABLE_DIRECTORY'      => 1,
 

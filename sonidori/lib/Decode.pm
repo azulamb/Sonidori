@@ -273,13 +273,15 @@ sub GetCookie()
 
 sub Common( \$ )
 {
-  my @args = split( /&/, $_[0] );
+  my ( $query ) = ( @_ );
+  my @args = split( /&/, $query );
   my %ret;
   foreach ( @args )
   {
     my ( $name, $val ) = split( /=/, $_, 2 );
     $val =~ tr/+/ /;
     $val =~ s/%([0-9a-fA-F][0-9a-fA-F])/pack('C', hex($1))/eg;
+    utf8::decode( $val );
     unless ( exists ( $ret{ $name } ) )
     {
       $ret{ $name } = $val;

@@ -22,7 +22,7 @@ sub new()
   # Environment variable.
   $hash->{ 'ENV' } =
   {
-    'ver'         => '0.1',
+    'ver'         => '0.2',
     'filepath'    => '',
     'mode'        => 'markdown',
     'dev'         => 'PC',
@@ -33,6 +33,7 @@ sub new()
   $hash->{ 'SYSTEM' } =
   {
     'ENABLE_DIRECTORY'      => 1,
+    'ENABLE_EDIT'           => 0,
     'PUBLIC_DIR'            => './wiki',
     'BLOG_DIR'              => './blog',
     'CGI'                   => '',
@@ -57,7 +58,7 @@ sub new()
 
   # Get data (GET method).
   $hash->{ 'GET' }       = {};
-  $hash->{ 'GET_NAMES' } = [ 'page', 'tail', 'dir', 'dev' ];
+  $hash->{ 'GET_NAMES' } = [ 'page', 'tail', 'dir', 'dev', 'edit' ];
 
   # Get data (POST method).
   $hash->{ 'POST' }       = {};
@@ -175,6 +176,9 @@ sub Decode()
   $sonidori->{ 'POST' }   = $sonidori->{ 'Decode' }->Post( @{ $sonidori->{ 'POST_NAMES' } } );
   # Get Cookie.
   $sonidori->{ 'COOKIE' } = $sonidori->{ 'Decode' }->GetCookie( @{ $sonidori->{ 'COOKIE_NAMES' } } );
+
+  #if( $sonidori->{ 'GET' }{ 'path' } eq '' ){ $sonidori->{ 'GET' }{ 'path' } = '.'; }
+  #if( $sonidori->{ 'ENV' }{ 'path' } eq '' ){ $sonidori->{ 'ENV' }{ 'path' } = '.'; }
 
   return 0;
 }
@@ -327,6 +331,47 @@ sub Out()
       $html .= $sonidori->Binnary2Out( $sonidori->{ 'ENV' }{ 'filepath' } );
     }
   }
+
+  # Add Content-Length.
+  $sonidori->AddContentLength( $html );
+
+  # Printout HTTP Header.
+  my $htmlheader = $sonidori->HTMLHeader();
+
+  return $htmlheader . $html;
+}
+
+sub EditOut()
+{
+  my ( $sonidori ) = ( @_, '', '' );
+
+  my $html = '';#$sonidori->Hook( 'Out' );
+
+  #if ( $html eq '' )
+  #{
+    if ( $sonidori->{ 'ENV' }{ 'mode' } eq 'markdown' )
+    {
+      # Markdown.
+      my $file = $sonidori->{ 'ENV' }{ 'filepath' };
+
+      # OpenFile.
+      my $text = join ( '', &Common::OpenFile( $file ) );
+      $sonidori->AddLastModifiedFromFile( $file );
+
+      my $form = sprintf('
+<form class="editform">
+<textarea>%s</textarea>
+</form>
+'
+     , $text);
+
+      $html .= $sonidori->DefaultViewMarkdown( $file, $form, '' );
+    } else
+    {
+      # Not Markdown.
+      $html .= $sonidori->DefaultViewMarkdown( 'error', '' );
+    }
+  #}
 
   # Add Content-Length.
   $sonidori->AddContentLength( $html );

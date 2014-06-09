@@ -11,6 +11,10 @@ use utf8;
 sub GetSetting()
 {
   my %SYSTEM = (
+
+    # Enable edit(not 0)
+    'ENABLE_EDIT'           => 0,
+
     # Enable directory list(not 0).
     'ENABLE_DIRECTORY'      => 1,
 
@@ -51,6 +55,14 @@ sub GetSetting()
             'WindowsPhone'  => '../sonidori/template/template_mobile.html',
     },
 
+    # Admin Tools.
+    # Uploader.
+    'ADMIN_UPLOADER'        => '',
+    # Markdown preview.
+    'ADMIN_PREVIEW'         => '',
+
+    # HTTP Header(editable by plugin or template).
+    'HTTP_HEADER'           => [ 'Content-type: text/html' ],
   );
 
   return \%SYSTEM;
